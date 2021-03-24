@@ -1,0 +1,2 @@
+# ByteConnector
+旨在提供一个事务连接器，允许使用atomikos/bitronix/narayana等不同事务管理器的服务之间可以统一进行事务管理。
